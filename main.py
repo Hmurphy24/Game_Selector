@@ -4773,7 +4773,7 @@ def war_game():
 
                 print('Okay, let\'s go again!')
 
-                x = 40
+                x = 60
 
                 while x > 0:
 
