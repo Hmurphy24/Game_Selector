@@ -48,7 +48,8 @@ def game_selector_hub():
 
             print()
 
-            print('The current available games are "Rock, Paper Scissors" (RPS), "Twenty-One" (21), "Tic-Tac-Toe (TTT), the "Python Quiz" (PQ), "Hang Man" (HM), "Go Fish (GF) and "Uno" (1)!')
+            print('The current available games are "Rock, Paper Scissors" (RPS), "Twenty-One" (21), "Tic-Tac-Toe '
+                  '(TTT), the "Python Quiz" (PQ), "Hang Man" (HM), "Go Fish (GF), "Uno" (1) and "Connect Four"!')
 
             print()
 
